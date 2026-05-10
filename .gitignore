@@ -1,0 +1,7 @@
+Backend/target/
+**/target/
+*.jar
+
+# Credentials (à ne jamais commiter)
+**/*firebase-adminsdk*.json
+**/*service-account*.json
